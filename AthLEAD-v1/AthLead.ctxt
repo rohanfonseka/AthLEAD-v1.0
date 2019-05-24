@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AthLead
+comment1.params=
+comment1.target=java.util.ArrayList\ athletesInit()
+comment1.text=\n\ attempts\ remote\ login\ onto\ IC;\ helper\ method\ for\ the\ Dovi.java\ class.\n\ you\ may\ have\ to\ manually\ change\ the\ gradesView\ URL\ for\ it\ to\ work\ for\ your\ user\ specifically.\n\ @param\ username\ and\ password\ in\ a\ string\ format.\n
+comment2.params=searchName\ athletes
+comment2.target=void\ checkIn(java.lang.String,\ java.util.ArrayList)
+comment3.params=eventName\ athletes
+comment3.target=void\ printPaper(java.lang.String,\ java.util.ArrayList)
+numComments=4
