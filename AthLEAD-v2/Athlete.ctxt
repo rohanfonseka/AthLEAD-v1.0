@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Athlete
+comment0.text=\n\ Write\ a\ description\ of\ class\ Athlete\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=n\ sch\ g\ seed\ e\ se
+comment1.target=Athlete(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\n\ \u00A0*\ Constructor\ for\ objects\ of\ class\ Athlete\n\u00A0
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getSchool()
+comment4.params=
+comment4.target=java.lang.String\ getGrade()
+comment5.params=
+comment5.target=java.lang.String\ getSeeding()
+comment6.params=
+comment6.target=java.lang.String\ getEvent()
+comment7.params=
+comment7.target=java.lang.String\ getShortenedEvent()
+comment8.params=b
+comment8.target=void\ setCheckedIn(boolean)
+comment9.params=
+comment9.target=boolean\ checkedIn()
+numComments=11
